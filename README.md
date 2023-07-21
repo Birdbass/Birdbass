@@ -1,11 +1,15 @@
-<h2 align="left">Hi 👋! My name is Aleksandr and I'm a frontend developer!!!</h2>
+<h2 align="center">Hi 👋! My name is Aleksandr and I'm a frontend developer!!!</h2>
 
 ###
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
+---
 
 <img align="right" height="150" src="https://media.giphy.com/media/r8iF8ZVnq2bQN5hwVt/giphy.gif"  />
 
 ###
 
+<h2 align="left">My skills:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -29,12 +33,19 @@
 </div>
 
 ###
+<h2 align="left">Contact me:</h2>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-</div>
+
+<br/>
+
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="@birdbass" height="40" width="40" />][telegram]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@birdbass" height="40" width="40" />][linkedin]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@birdbass" height="40" width="40" />][instagram]
+
+<br/>
+
+[linkedin]:https://www.linkedin.com/in/aleksandr-berdov/
+[telegram]:https://t.me/birdbass
+[instagram]:https://www.instagram.com/alexandr_berdov
 
 ###
